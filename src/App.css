@@ -11,6 +11,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}body{
+  background-color: red;
+}
+input{
+  width: 400px;
+  border-radius: 25px;
+  height: 35px;
 }
 
 .App-header {
